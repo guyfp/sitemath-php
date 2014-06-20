@@ -1,0 +1,19 @@
+
+h1, p, ol, ul,i {	
+color: red;
+background-color: white;
+text-align: center; 
+padding: 20px;
+font-family: 'centuryscoolbook',
+font-weight: bold;
+font-style: italic;
+font-size: 30px;
+}
+
+ul {
+display: inline-table;
+}
+ 
+a:hover {
+	color: yellow;
+}
