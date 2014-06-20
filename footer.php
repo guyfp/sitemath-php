@@ -1,13 +1,5 @@
 
-        <div class="footer-container">
-            <footer class="wrapper">
-                <h3>un peu d"histoire, le nombre d'or</h3>
-                    <ol>
-                        <img src="images/nbor.jpg">
-                    </ol>
-
-            </footer>
-        </div>
+        
 
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
