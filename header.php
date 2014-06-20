@@ -24,7 +24,7 @@
         
             <header>
 
-                <h1 class="title">h1.title</h1>
+                <h1 class="title">Site de François GUY</h1>
 
                 <nav class="navbar navbar-default" role="navigation">
                   <div class="container-fluid">
@@ -36,7 +36,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                       </button>
-                      <a class="navbar-brand" href="#">Math Site</a>
+                      <a class="navbar-brand" href="#">Math </a>
                     </div>
 
                     <!-- Collect the nav links, forms, and other content for toggling -->

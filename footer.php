@@ -1,7 +1,11 @@
 
         <div class="footer-container">
             <footer class="wrapper">
-                <h3>footer</h3>
+                <h3>un peu d"histoire, le nombre d'or</h3>
+                    <ol>
+                        <img src="images/nbor.jpg">
+                    </ol>
+
             </footer>
         </div>
 
